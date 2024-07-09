@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Equal Breathing",
+        "sanskrit_name": "Sama Vritti",
+        "description": "Involves inhaling and exhaling for the same duration, promoting balance and calmness.",
+        "duration": "5-10 minutes",
+        "expertise_level": "Beginner",
+        "video_url": "https://youtu.be/U-hJiCa1Ep4?si=e-_xZSCs0iTCJF88"
+    },
+    {
+        "name": "Alternate Nostril Breathing",
+        "sanskrit_name": "Nadi Shodhana",
+        "description": "Balances the mind and body by alternating the breath between the two nostrils.",
+        "duration": "5-10 minutes",
+        "expertise_level": "Beginner",
+        "video_url": "https://www.youtube.com/watch?v=7Xzzt846yPk"
+    },
+    {
+        "name": "Skull Shining Breath",
+        "sanskrit_name": "Kapalabhati",
+        "description": "A powerful, rapid breathing technique involving forceful exhalations and passive inhalations.",
+        "duration": "1-3 minutes",
+        "expertise_level": "Intermediate",
+        "video_url": "https://youtu.be/Jqxz98kRC4Y?si=-1NGIBJC6sOJt59L"
+    },
+    {
+        "name": "Bee Breath",
+        "sanskrit_name": "Bhramari",
+        "description": "Involves producing a humming sound while exhaling, calming the mind and reducing anxiety.",
+        "duration": "5-10 minutes",
+        "expertise_level": "Beginner",
+        "video_url": "https://youtu.be/aQingJdCqXM?si=161YfwMrJXg8bQG9"
+    },
+    {
+        "name": "Victorious Breath",
+        "sanskrit_name": "Ujjayi",
+        "description": "A slow, deep breathing technique with a slight constriction in the throat, enhancing concentration and controlling the flow of breath.",
+        "duration": "5-15 minutes",
+        "expertise_level": "Intermediate",
+        "video_url": "https://youtu.be/jov2frxTRxo?si=yDXgSjZT48bSDUkd"
+    },
+    {
+        "name": "Bellows Breath",
+        "sanskrit_name": "Bhastrika",
+        "description": "Forceful inhalations and exhalations through the nose, increasing oxygen supply and energizing the mind.",
+        "duration": "1-3 minutes",
+        "expertise_level": "Intermediate",
+        "video_url": "https://youtu.be/xhDQzgYc8j4?si=6JMdZf0GTWqpjFXF"
+    },
+    {
+        "name": "Cooling Breath",
+        "sanskrit_name": "Sitali",
+        "description": "Involves inhaling through a rolled tongue and exhaling through the nose, cooling the body and soothing the nervous system.",
+        "duration": "2-5 minutes",
+        "expertise_level": "Beginner",
+        "video_url": "https://youtu.be/20RoKGct8NQ?si=msqF2DzJ1lwlywb_"
+    },
+    {
+        "name": "Right Nostril Breathing",
+        "sanskrit_name": "Surya Bhedana",
+        "description": "Involves inhaling through the right nostril and exhaling through the left, stimulating the body and increasing energy.",
+        "duration": "3-5 minutes",
+        "expertise_level": "Intermediate",
+        "video_url": "https://youtu.be/SpL1ispZGsY?si=nNDQAY_Zdlr5Uk_s"
+    },
+    {
+        "name": "Left Nostril Breathing",
+        "sanskrit_name": "Chandra Bhedana",
+        "description": "Involves inhaling through the left nostril and exhaling through the right, calming the mind and inducing relaxation.",
+        "duration": "3-5 minutes",
+        "expertise_level": "Beginner",
+        "video_url": "https://youtu.be/C1xt3i6j5gw?si=nDIAXPO56dPyl3TW"
+    }
+]
